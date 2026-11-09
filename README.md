@@ -21,35 +21,35 @@
 
 ---
 
-## 🌷 A Little About Me
 
-Hey there! I'm **Simran Vinayak Tupe**, a third-year **B.Tech Artificial Intelligence & Data Science** student at **K. K. Wagh Institute of Engineering Education & Research, Nashik**.
+## 👩🏻‍💻 About Me
 
-I'm someone who loves the intersection of **technology, creativity, and entrepreneurship**. Whether it's exploring AI, analyzing data, developing websites, or brainstorming a new startup idea, I'm always curious about how technology can solve real-world problems.
+Hello! I'm **Simran Vinayak Tupe**, a third-year B.Tech student specializing in **Artificial Intelligence & Data Science** at K. K. Wagh Institute of Engineering Education & Research, Nashik.
 
-My interests span **Artificial Intelligence, Data Science, Full Stack Development, Generative AI, UI/UX Design, and Digital Product Development**.
+I am passionate about leveraging technology, data, and intelligent systems to solve real-world problems. My interests span **Data Science, Machine Learning, Data Analytics, Artificial Intelligence, and Full Stack Development**.
 
-I enjoy turning concepts into meaningful digital experiences — from intelligent applications to visually appealing websites.
+I enjoy working with data to uncover meaningful insights, exploring machine learning techniques to develop predictive solutions, and building interactive applications that combine functionality with thoughtful design.
 
-Outside academics, I love exploring creative ideas, working on entrepreneurial projects, collaborating with people, and learning new skills.
+I'm continuously expanding my technical knowledge through hands-on projects, experimentation, and exploring emerging technologies in the AI ecosystem.
 
-**My philosophy:** Stay curious, build consistently, and never stop improving. ✨
+### ✨ Areas of Interest
 
-<br/>
+- 📊 **Data Science & Analytics:** Data exploration, data preprocessing, visualization, statistical analysis, and extracting actionable insights.
+- 🤖 **Machine Learning:** Understanding ML algorithms, predictive modelling, model evaluation, and practical ML applications.
+- 🧠 **Artificial Intelligence:** Exploring Generative AI, Large Language Models (LLMs), AI Agents, and intelligent applications.
+- 💻 **Full Stack Development:** Designing and developing responsive web applications and interactive digital products.
+- 🚀 **Innovation & Entrepreneurship:** Building technology-driven solutions and exploring ideas that create real-world value.
 
-### ✨ A Few Things About Me
+### 📌 Quick Overview
 
-- 🎓 **Education:** B.Tech in Artificial Intelligence & Data Science
-- 🏫 **College:** K. K. Wagh Institute of Engineering Education & Research
-- 📍 **Location:** Nashik, Maharashtra, India 🇮🇳
-- 💻 **Passion:** AI, Data Science, Full Stack Development & UI/UX
-- 🚀 **Entrepreneurial Side:** Building Weblio and exploring digital business ideas
-- 🤖 **Exploring:** Generative AI, LLMs, AI Agents & Automation
-- 📊 **Data Interests:** Data Analytics, Visualization & Machine Learning
-- 🎨 **Creative Side:** Aesthetic interfaces, branding & digital experiences
-- 🎯 **Current Focus:** DSA, real-world projects, GATE 2027 & career development
-- 🤝 **Open To:** Internships, collaborations, hackathons & exciting projects
-- 🌱 **Belief:** Small progress every day creates extraordinary results
+- 🎓 **Education:** B.Tech – Artificial Intelligence & Data Science
+- 🏫 **Institute:** K. K. Wagh Institute of Engineering Education & Research
+- 📍 **Location:** Nashik, Maharashtra, India
+- 🔍 **Exploring:** Machine Learning, Data Science, Generative AI & Data Analytics
+- 🛠️ **Building:** Web applications, AI-powered solutions & data-driven projects
+- 🎯 **Current Goal:** Strengthening technical foundations and developing industry-relevant projects.
+- 🌱 **Mindset:** Continuous learning, experimentation, and problem-solving.
+
 
 ---
 
