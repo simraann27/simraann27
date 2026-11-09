@@ -1,6 +1,8 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=venom&height=190&text=SIMRAN%20TUPE&fontSize=58&fontColor=EAD7FF&animation=twinkling&stroke=BC9AE8&strokeWidth=2&color=0:17132B,50:30214B,100:17132B" width="100%" alt="Animated purple profile banner"/>
+
 # ✨ Hey, I'm Simran Tupe!
 
 ### AI & Data Science Student | Developer | Creative Thinker
@@ -20,7 +22,6 @@
 </div>
 
 ---
-
 
 ## 👩🏻‍💻 About Me
 
@@ -50,7 +51,6 @@ I'm continuously expanding my technical knowledge through hands-on projects, exp
 - 🎯 **Current Goal:** Strengthening technical foundations and developing industry-relevant projects.
 - 🌱 **Mindset:** Continuous learning, experimentation, and problem-solving.
 
-
 ---
 
 ## 💜 What I'm Passionate About
@@ -72,7 +72,6 @@ Building responsive, functional, and visually appealing websites that deliver sm
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -129,11 +128,16 @@ Exploring business opportunities, digital products, innovative platforms, and te
 
 ## 🚀 Featured Projects
 
-Here are some of the ideas and applications I've been exploring and developing.
+<div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Project | Description | Domain |
+|:---|:---|:---|
+| ⚡ **ChargeEase** | EV Charging Slot Pre-Booking System | Full Stack / IoT |
+| 🤖 **EduReach** | Agentic College Chatbot | AI / Generative AI |
+| 🌿 **Aranya Spa** | Luxury Spa & Wellness Website | Web Development / UI/UX |
+| 🏡 **QuickStay** | Modern Property Rental Hub | Full Stack Development |
+
+</div>
 
 ### ⚡ ChargeEase
 
@@ -141,10 +145,7 @@ Here are some of the ideas and applications I've been exploring and developing.
 
 A smart EV charging platform concept designed to help users discover charging stations and reserve charging slots conveniently.
 
-**Focus:** Full Stack Development, Booking Systems, EV Technology
-
-</td>
-<td width="50%" valign="top">
+**Focus:** Full Stack Development, Booking Systems, EV Technology.
 
 ### 🤖 EduReach
 
@@ -152,13 +153,7 @@ A smart EV charging platform concept designed to help users discover charging st
 
 An AI-powered college assistant concept designed to help students find academic information and get answers to college-related queries.
 
-**Focus:** Artificial Intelligence, LLMs, AI Agents
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+**Focus:** Artificial Intelligence, LLMs, AI Agents.
 
 ### 🌿 Aranya Spa
 
@@ -166,10 +161,7 @@ An AI-powered college assistant concept designed to help students find academic 
 
 A premium spa website concept focused on elegant aesthetics, relaxing visual experiences, responsive layouts, and modern web design.
 
-**Focus:** Frontend Development, UI/UX, Creative Design
-
-</td>
-<td width="50%" valign="top">
+**Focus:** Frontend Development, UI/UX, Creative Design.
 
 ### 🏡 QuickStay
 
@@ -177,15 +169,11 @@ A premium spa website concept focused on elegant aesthetics, relaxing visual exp
 
 A property rental platform concept designed to simplify property discovery and create a convenient experience for renters and property owners.
 
-**Focus:** Full Stack Development, Property Listings, UI/UX
-
-</td>
-</tr>
-</table>
+**Focus:** Full Stack Development, Property Listings, UI/UX.
 
 <div align="center">
 
-*Every project begins with curiosity and grows through creativity, experimentation, and learning.*
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=17&duration=2500&pause=800&color=C9A7EB&center=true&vCenter=true&width=550&lines=Ideas+into+Projects+%E2%9C%A8;Projects+into+Real+Solutions+%F0%9F%92%9C" alt="Animated project tagline"/>
 
 </div>
 
@@ -207,12 +195,12 @@ Weblio focuses on helping businesses, startups, creators, and professionals buil
 
 ### 💡 What Weblio Focuses On
 
-- 🌐 **Business Websites** — Professional and responsive websites for growing businesses
-- 🎨 **Creative UI/UX** — Modern layouts, beautiful interfaces, and engaging digital experiences
-- 🚀 **Landing Pages** — Attractive pages for products, services, and personal brands
-- 📱 **Responsive Design** — Websites optimized for desktop, tablet, and mobile
-- 💼 **Digital Presence** — Helping businesses showcase their services and identity online
-- ✨ **Custom Web Experiences** — Turning business ideas into functional websites
+- 🌐 **Business Websites** — Professional and responsive websites for growing businesses.
+- 🎨 **Creative UI/UX** — Modern layouts, beautiful interfaces, and engaging digital experiences.
+- 🚀 **Landing Pages** — Attractive pages for products, services, and personal brands.
+- 📱 **Responsive Design** — Websites optimized for desktop, tablet, and mobile.
+- 💼 **Digital Presence** — Helping businesses showcase their services and identity online.
+- ✨ **Custom Web Experiences** — Turning business ideas into functional websites.
 
 ### 🌷 The Vision
 
@@ -251,13 +239,9 @@ To make beautiful, functional, and professional websites more accessible to busi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9A7EB&icon_color=BC9AE8&text_color=E6DDF2" width="49%" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=simraann27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9A7EB&icon_color=BC9AE8&text_color=E6DDF2" width="49%" alt="GitHub stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9A7EB&text_color=E6DDF2" width="49%" alt="Top languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=C9A7EB&fire=E8C7DC&currStreakLabel=C9A7EB" width="70%" alt="GitHub streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simraann27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9A7EB&text_color=E6DDF2" width="49%" alt="Top languages"/>
 
 </div>
 
@@ -267,7 +251,7 @@ To make beautiful, functional, and professional websites more accessible to busi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
+<img src="https://raw.githubusercontent.com/simraann27/simraann27/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
 
 </div>
 
@@ -275,24 +259,40 @@ To make beautiful, functional, and professional websites more accessible to busi
 
 ## 🌸 Beyond the Screen
 
-When I'm not writing code or exploring new technologies, you'll probably find me:
+- 🎨 Exploring creative design and aesthetic inspiration.
+- 💡 Brainstorming startup ideas and digital products.
+- 📚 Learning something new and expanding my skills.
+- 🎤 Participating in college activities and events.
+- 🌷 Exploring branding, creativity, and entrepreneurship.
+- ✨ Working toward becoming a better version of myself.
 
-- 🎨 Exploring creative design and aesthetic inspiration
-- 💡 Brainstorming startup ideas and digital products
-- 📚 Learning something new and expanding my skills
-- 🎤 Participating in college activities and events
-- 🌷 Exploring branding, creativity, and entrepreneurship
-- ✨ Working toward becoming a better version of myself
+---
+
+## 💼 Open to Opportunities
+
+I'm actively looking forward to opportunities where I can apply my technical knowledge, learn from industry professionals, and contribute to meaningful projects.
+
+I'm open to:
+
+- 💻 Software Development Internships
+- 📊 Data Science & Data Analytics Internships
+- 🤖 Machine Learning & AI Opportunities
+- 🌐 Full Stack & Web Development Projects
+- 🚀 Hackathons, Open-Source Contributions & Collaborations
+
+I'm eager to collaborate with teams, contribute to real-world projects, solve challenging problems, and continuously grow as a technology professional.
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=19&duration=2600&pause=900&color=C9A7EB&center=true&vCenter=true&width=700&lines=Open+to+Internships+%26+Collaborations;Ready+to+Contribute+to+Real-World+Projects;Let's+Build+Something+Meaningful+Together" alt="Animated open to opportunities message"/>
+
+</div>
 
 ---
 
 ## 🤝 Let's Connect & Create Something Amazing!
 
 <div align="center">
-
-I'm always happy to connect with developers, designers, entrepreneurs, and people who love building meaningful things.
-
-<br/>
 
 <a href="https://www.linkedin.com/in/simrantupe/">
 <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -320,14 +320,14 @@ I'm always happy to connect with developers, designers, entrepreneurs, and peopl
 
 <div align="center">
 
-### ✨ Dream. Design. Develop. Repeat.
-
-*"The best way to predict the future is to create it."*
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=C9A7EB&center=true&vCenter=true&width=600&lines=Dream.+Design.+Develop.+Repeat.+%E2%9C%A8;Stay+Curious.+Keep+Building.+%F0%9F%92%9C" alt="Animated closing message"/>
 
 <br/>
 
+*"The best way to predict the future is to create it."*
+
 **Thank you for visiting my little corner of GitHub! 💜**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17132B,50:654B91,100:C9A7EB&height=110&section=footer" width="100%" alt="Footer wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17132B,50:654B91,100:C9A7EB&height=110&section=footer" width="100%" alt="Animated footer wave"/>
 
 </div>
