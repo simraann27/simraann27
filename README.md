@@ -235,13 +235,18 @@ To make beautiful, functional, and professional websites more accessible to busi
 
 ---
 
+
 ## 📈 My GitHub Journey
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=simraann27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9A7EB&icon_color=BC9AE8&text_color=E6DDF2" width="49%" alt="GitHub stats"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=19&duration=2500&pause=1000&color=C9A7EB&center=true&vCenter=true&width=550&lines=Every+Commit+Is+Progress+%E2%9C%A8;Learning+Through+Building+%F0%9F%92%9C;Growing+One+Project+At+A+Time" alt="GitHub journey animation"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simraann27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9A7EB&text_color=E6DDF2" width="49%" alt="Top languages"/>
+<br/>
+
+<a href="https://github.com/simraann27?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-8E72B8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -251,7 +256,7 @@ To make beautiful, functional, and professional websites more accessible to busi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/simraann27/simraann27/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+<img src="https://raw.githubusercontent.com/simraann27/simraann27/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
 
 </div>
 
